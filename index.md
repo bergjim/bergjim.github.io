@@ -1,6 +1,6 @@
 ![AIND](/assets/img/AIND_logo.png)
 
-# Available positions
+# Available [positions](http://www.cnn.com)
 
 Who can use the [editor on GitHub](https://github.com/Manuel83/sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
