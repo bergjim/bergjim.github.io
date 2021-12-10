@@ -6,7 +6,6 @@
 
 [Scientist I - Machine Learning in Circuit Tracing](https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=1679008)
 This Scientist will work with other quantitative and experimental scientists on high-priority problems in neuronal reconstruction and analysis that include (i) topology-preserving approaches to neuronal segmentation, (ii) deep learning-based analysis of morpho-molecular datasets, and (iii) high performance computing.  
-<br />
 
 [Scientist I – Multi-regional neural circuits, Thalamus anatomy](https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=1835514)
 This Scientist will lead a project to uncover the organizational logic of signal routing from subcortical areas to the frontal cortex via the thalamus at the level of defined cell types. This individual will leverage state-of-the-art imaging methods, molecular and transgenic resources to generate foundational anatomy data needed to study contributions of identified cell types within thalamic circuits during flexible behaviors.  
