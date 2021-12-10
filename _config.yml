@@ -1,7 +1,5 @@
 
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 Logo: /assets/img/AIND_Logo.png
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Test title]
 description: [Test description]
