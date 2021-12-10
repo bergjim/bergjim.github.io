@@ -28,37 +28,12 @@ These Scientists will lead a program in behavioral and system neuroscience. They
 [Scientist II - Theory](https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=1850150)
 This Scientist will model neural computation at the level of neural circuits and dynamics. This individual will analyze multi-dimensional neurophysiological and behavioral data to extract principles underlying neural computation.  
 
+## Scientific Computing
+[Scientific Data Engineer III](https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=1839117)
+This skilled data engineer will design and operate a modern, cloud-first data platform that enables multiple scientific teams collecting peta-scale biological datasets to manage metadata, orchestrate automated computational workflows, and share data with the neuroscience community adhering to FAIR standards. 
 
+[Software Engineer II - Image Registration](https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=1839217)
+This machine vision software engineer will join a program to understand the long-range connectivity patterns of neurons whose activity underlies complex behavior and decision-making. In this role, the candidate will build robust, scalable image processing and analysis pipelines. A key component of these pipelines is multimodal image registration between individuals and standardized coordinate systems. 
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Manuel83/sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Principal Product Manager, Data Integration](https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=1825885)
+This individual will engage deeply with both internal and external community stakeholders to ensure the success of our Open Science mission. He or she will guide the design of data, tools and standards and establish them in the broader neuroscience community.
